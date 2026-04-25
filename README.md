@@ -1,5 +1,18 @@
 ## Description
+
 A simple Crypto data API using NestJS
+
+## Environment Setup
+
+Make sure you have Node.js installed on your machine. You can download it from [Node.js official website](https://nodejs.org/).
+
+```
+$ node -v
+```
+
+expected output:
+
+v24.15.0
 
 ## Project setup
 
@@ -58,4 +71,3 @@ Check out a few resources that may come in handy when working with NestJS:
 - Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
 - To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
 - Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
-
