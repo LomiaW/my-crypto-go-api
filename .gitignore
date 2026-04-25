@@ -22,6 +22,7 @@ lerna-debug.log*
 /tmp
 /build
 /dist
+/coverage
 
 # IDE settings
 vscode/
